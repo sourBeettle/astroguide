@@ -1,0 +1,27 @@
+Parte feita só pra anotar loool
+
+Resumo do plano do site de astronomia
+Seu site será uma experiência imersiva sobre o cosmos,
+ todo construído com HTML e CSS, sem JavaScript. 
+ A estrutura principal é uma página inicial (index.html) com ancoragem para as seções:
+
+Hero – Entrada impactante com fundo estrelado e chamada para explorar.
+
+Sistema Solar – Cards dos planetas com dados e uma miniatura orbital feita só com CSS.
+
+Estrelas e Constelações – Ciclo de vida estelar e constelações desenhadas com pseudo-elementos.
+
+Galáxias e Universo Profundo – Tipos de galáxias ilustrados com formas, conceitos de ano‑luz e expansão.
+
+Curiosidades Astronômicas – Fatos surpreendentes, linha do tempo de descobertas e cards que viram no :hover.
+
+A cereja do bolo é a página do formulário (formulario.html), temática de “Registro de Aspirante a Astronauta”.
+ Ela simula um painel de controle de nave com campos estilizados (nome, codinome, data de nascimento, planeta de origem,
+  nível de experiência, tipo de missão, mensagem e aceite dos termos). 
+  Os campos usam validação nativa do HTML5 (required, pattern, minlength, etc.) e respostas visuais apenas com CSS (:valid, :invalid, :focus, transições e animações).
+   O fundo terá nebulosas e estrelas em movimento, e o botão de envio será um grande “Lançar Missão” com efeitos de brilho e escala.
+
+Todo o visual segue uma paleta de espaço profundo (azul escuro, ciano, magenta)
+ com fontes Orbitron e Exo 2, reforçando o clima de ficção científica.
+
+ Na parte do formulário lembrar de colocar o epsum lorem em chinês*
